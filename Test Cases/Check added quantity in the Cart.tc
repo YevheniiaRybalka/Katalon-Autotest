@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check added quantity in the Cart</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Yevheniia Rybalka</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Yevheniia Rybalka</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>b95d88e8-506b-4f8e-ab97-de4c54c69b04</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>b95d88e8-506b-4f8e-ab97-de4c54c69b04</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5cf4ba0d-76ba-430b-a70b-edeb9917142c</testCaseGuid>
+</TestCaseEntity>
